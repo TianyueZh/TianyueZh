@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tiana
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning game design
+- 💞️ I’m looking to collaborate on interesting CV and LLM projects
